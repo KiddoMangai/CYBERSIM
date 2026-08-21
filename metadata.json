@@ -1,0 +1,6 @@
+{
+  "name": "CyberSim X: Autonomous Bank Breach War Room",
+  "description": "AI-powered autonomous cyber breach war room and decision laboratory for BFSI with multi-agent threat response, digital bank twin, and AI Dependency Risk Score.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
